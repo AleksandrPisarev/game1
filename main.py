@@ -1,3 +1,3 @@
-from person import Person
+from person import *
 
 if __name__ == '__main__':
